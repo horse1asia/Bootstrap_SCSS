@@ -1,0 +1,84 @@
+/*Import this file using the following HTML or equivalent:
+<link rel="stylesheet" href="css/custom.css"> - modern method
+<link rel="stylesheet" href="css/custom.css" type="text/css"> - old method
+*/
+/*Custom Styles for this website 
+Use this stylesheet to override the bootstrap css
+*/
+/*Custom Styles for this website 
+Use this stylesheet to override the bootstrap css
+
+Changing Lives Landing Page custom CSS - Use this stylesheet to override the Bootstrap CSS
+
+    Table Of Contents
+
+    1. Base styles
+    2. Headings
+    3. Typography
+    4. Anchors
+    5. Navigation
+    6. Form Elements
+    7. General Classes
+    8. Template & Layout
+    9. Print
+    10. Media Queries 
+    11. CSS Diagnostics
+*/
+/****************************************************************
+1. Base styles
+****************************************************************/
+html {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 62.5%;
+  color: #d43f3a; }
+
+/****************************************************************
+2. Headings
+****************************************************************/
+h1 {
+  font-size: 5px; }
+
+/****************************************************************
+3. Typography
+****************************************************************/
+/****************************************************************
+4. Links
+****************************************************************/
+/****************************************************************
+5. Navigation
+****************************************************************/
+/****************************************************************
+6. Form Elements
+****************************************************************/
+/****************************************************************
+7. General Classes
+****************************************************************/
+/****************************************************************
+8. Template & Layout
+****************************************************************/
+/****************************************************************
+9. Print
+****************************************************************/
+/****************************************************************
+10. Media Queries 
+****************************************************************/
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+/*==========  Mobile First Method  ==========*/
+/* Custom, iPhone Retina */
+/* Extra Small Devices, Phones */
+/* Small Devices, Tablets */
+/* Medium Devices, Desktops */
+/* Large Devices, Wide Screens */
+/*==========  Non-Mobile First Method  ==========*/
+/* Large Devices, Wide Screens */
+/* Medium Devices, Desktops */
+/* Small Devices, Tablets */
+/* Extra Small Devices, Phones */
+/* Custom, iPhone Retina */
+/****************************************************************
+11. CSS Diagnostics
+****************************************************************/
+
+/*# sourceMappingURL=custom.css.map */
