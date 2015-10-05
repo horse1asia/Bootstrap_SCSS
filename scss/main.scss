@@ -1,0 +1,19 @@
+/*Import this file using the following HTML or equivalent:
+<link rel="stylesheet" href="css/custom.css"> - modern method
+<link rel="stylesheet" href="css/custom.css" type="text/css"> - old method
+*/
+
+@import "variables";  //must come 1st
+@import "mixins";     //must come 2nd
+@import "css_header";
+@import "base";
+@import "headings";
+@import "typography";
+@import "links";
+@import "navigation";
+@import "form_elements";
+@import "general_classes";
+@import "template_layout";
+@import "print";
+//@import "media_queries"; //use if not using vendor bootstrap queries
+@import "css_diagnostics";

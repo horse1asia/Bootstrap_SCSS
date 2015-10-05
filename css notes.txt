@@ -1,0 +1,40 @@
+stylesheets/
+|
+|-- modules/              # Common modules
+|   |-- _all.scss         # Include to get all modules
+|   |-- _utility.scss     # Module name
+|   |-- _colors.scss      # Etc...
+|   ...
+|
+|-- partials/             # Partials
+|   |-- _base.sass        # imports for all mixins + global project variables
+|   |-- _buttons.scss     # buttons
+|   |-- _figures.scss     # figures
+|   |-- _grids.scss       # grids
+|   |-- _typography.scss  # typography
+|   |-- _reset.scss       # reset
+|   ...
+|
+|-- vendor/               # CSS or Sass from other projects
+|   |-- _colorpicker.scss
+|   |-- _jquery.ui.core.scss
+|   ...
+|
+`-- main.scss            # primary Sass file
+
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/normalize.css" rel="stylesheet" /> //include if you don't use bootstrap
+<link href="css/bootstrap-theme.min.css" rel="stylesheet"> //equivalent of old bootstrap 2.0 theme, don't use if you want to start fresh
+<link href="css/global.css" rel="stylesheet" />
+<link href="css/profile.css" rel="stylesheet" />
+
+
+--CSS Load Configuration--		
+bootstrap.min.css			core bootstrap
+bootstrap-theme.min.css		bootstrap 2.0 theme, don't include if you start fresh
+main.css					global css included on all pages. Overrides for bootstrap
+<section>.css				css specific to a section i.e. admin, profile, comments, etc.
+
+
+

@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"page",
+				"pageID"
+			],
+			[
+				"fac",
+				"facebook-icon-link"
+			],
+			[
+				"foot",
+				"foot_wrap2"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 353.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/petermah/Documents/repos/Bootstrap_SCSS"
+	],
+	"file_history":
+	[
+		"/Users/petermah/Documents/repos/BootstrapStarter/css/custom.css",
+		"/Users/petermah/Documents/repos/BootstrapStarter/js/1.11.3/jquery.min.js",
+		"/Users/petermah/Documents/repos/BootstrapStarter/readme.txt",
+		"/Users/petermah/Documents/repos/BootstrapStarter/index.html",
+		"/Users/petermah/Documents/repos/BootstrapStarter/js/bootstrap.js",
+		"/Users/petermah/Documents/repos/Udacity/RWDF L5 Start/package.json",
+		"/Users/petermah/Documents/repos/Udacity/RWDF L5 Start/index.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/B621B81B-95B4-452F-A90C-DF3779627C34/case-studies.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/DFF6CC49-3A63-43CC-B3C2-71B8B5A4293A/case-studies.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/8F23A81F-D85C-41F8-AD3A-EBAD551ABE0C/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/13ED7A74-C5CA-487D-9CAE-E77F042BA193/index.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/1BF4CDAD-E279-4BED-A467-A32D4D11B409/header.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/358E3D58-CE9F-4311-BD8B-54587747379C/index.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/1CDBF501-7F50-42C6-AFF1-AC290BEC6BC0/custom.css",
+		"/Users/petermah/Documents/repos/Udacity/mostly pattern fluid/pattern-mostly-fluid-quiz-blankcss.html",
+		"/Users/petermah/Documents/repos/Udacity/pattern-mostly-fluid-quiz-blankcss.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/FBDD9466-89EC-4E4F-8281-83198D72CD04/faqs.inc_bkup_June25.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/1E774EA2-D5FC-4895-9C28-51CD2B2BE77C/type-form-demo2.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/11AEA10C-4E63-4DC0-A735-F482920AE27D/faqs.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/DD3460B3-DF20-4015-8C6B-FC21C5C86A8B/faqs.inc.php",
+		"/Users/petermah/Documents/repos/Udacity/bootstrap/js/1.11.1-jquery.min.js.min.js",
+		"/Users/petermah/Documents/repos/Udacity/portfolio_project/css/main.css",
+		"/Users/petermah/Documents/repos/Udacity/portfolio_project/index.html",
+		"/Users/petermah/Documents/repos/Udacity/bootstrap/bootstrap-prestructure.html",
+		"/Users/petermah/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/petermah/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/petermah/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/petermah/Documents/repos/Udacity/portfolio_project/index_bkup.html",
+		"/Users/petermah/Documents/repos/Udacity/_master_framework/index.html",
+		"/Users/petermah/Documents/repos/Udacity/_master_framework/css/main.css",
+		"/Users/petermah/Documents/repos/Udacity/Framework Test/css/style.css",
+		"/Users/petermah/Documents/repos/Udacity/Hello World/css/style.css",
+		"/Users/petermah/Documents/repos/Udacity/Hello World/index.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/70246758-DCBD-406C-9078-B312D6914984/custom.css",
+		"/Users/petermah/Documents/repos/Udacity/portfolio/toplist/style.css",
+		"/Users/petermah/Documents/repos/Udacity/portfolio/toplist/index.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/E787E670-4325-4BBB-B27F-38FBE97B3005/site.js",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/3DBFACF5-A356-477E-A34B-56C6DBFEB1B1/introduction.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/7F845EDA-7947-4027-9304-BB098A2FFA3A/introduction.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/73279479-EFC8-4CBE-977F-30A7C86EEC62/styles-master.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/19DA4803-4CA1-404B-9DFD-E99D8335479E/styles-master.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/CB523095-629F-4890-8F63-37EA97B3DEAD/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/23A2F595-38BA-460B-A550-0D6526A55DD4/styles-master.php",
+		"/Users/petermah/Dropbox (Xpan Interactive Ltd)/Chicago Transit Authority Public/Assets - Global/Flash/cta_Propulsion_Introduction/xml/course.xml",
+		"/Users/petermah/Dropbox (Xpan Interactive Ltd)/Chicago Transit Authority Public/Assets - Global/Flash/cta_preview_tool/xml/course.xml",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/A6775721-37BB-4003-AF5D-6A79EE8719D1/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/1611446B-17D2-4620-A34F-7A4B92421AB9/styles-master.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/740769CE-F147-4932-8607-6C78CB96448C/styles-master copy.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/47781A4B-43EB-410D-B8E1-DD3DD3354F68/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/E9AF46EA-C75A-482D-8BE6-762E4C6CEB52/intro-template.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/02A1D61D-579F-4A10-BDE1-A3BC1581DEBC/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/34D0816B-E7D3-44E6-BEC7-386EB773EB3D/menus_employee.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/08DB7F3B-9555-4DBB-9074-26A78D73BAE8/Employee_Report_A_Benefit_Event.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AAF119F4-2343-476C-9964-20D9EF4E2452/Employee_Open_Enrollment.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/87CE7ABE-280F-45E7-B605-34C18445C0FF/story.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F77C7A10-F33E-4935-8D03-F363ECF92A7A/menus_employee.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/47E1F143-0BBF-4612-94B7-431D620113ED/index.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/3C9E6E60-6BDC-4A70-8414-F28E428BD37A/Employee_Basic_Navigation.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/FA082862-66C7-4D66-9CB9-5E595A9C2D13/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/4BD528AA-FFF5-41F2-8B87-F26BAF83BD00/index.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/788D9718-7E4B-463E-A869-CCD2A264EF24/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/31F8E1C9-53E4-4AB3-8A8F-0DF8BDDAA3DB/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AA8E902D-DB6A-4365-9AB5-5A31171122D4/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/781954DD-4663-4F8F-A582-13D19C15E25B/styles-master.php",
+		"/Users/petermah/Desktop/styles-master.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/45503D0B-5953-4FF0-A10D-BBB2A16DE896/styles.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/713037CE-E316-4DD4-A76E-DFBC1DE57E8E/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/23CE68D6-D24A-44D5-81B4-59E2D5C020DC/styles.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/391C22C5-90B5-490C-9A31-C9A1814A5103/custom.css",
+		"/Users/petermah/Documents/repos/TELearn PHP build/subtopic-template.php",
+		"/Users/petermah/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application Support/com.bohemiancoding.sketch3/Plugins/Sketch Notebook/library/notebook.js",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/52A07BFB-9975-4CD4-8B8A-163FEDA5DC11/index.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/338F126A-08C7-4804-82E6-F8B920E1A5A5/index.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/734505F9-3A9B-423D-BC8E-1FC6DB61D24C/custom.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/7885ACE9-F6FD-42B5-AE06-DEA9E8137C29/thank-you_bkup.php",
+		"/Users/petermah/Documents/repos/Xpan Website 2015/css/spritecode.css",
+		"/Users/petermah/Documents/repos/Xpan Website 2015/index.php",
+		"/Users/petermah/Documents/repos/Xpan Website 2015/thank-you.php",
+		"/Users/petermah/Documents/repos/Xpan Website 2015/css/custom.css",
+		"/Users/petermah/Documents/repos/Xpan Website 2015/js/site.js",
+		"/Users/petermah/Documents/repos/Xpan Website 2015/index.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/6CD63456-F391-4074-BB40-147FB8EC2230/about.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/4CE25A56-DA57-4132-9870-AD0FD9D7F3A3/menus_leader.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/C5EACB60-1192-4B00-85FA-355F85A64AF4/menus_employee.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/10D057E5-E023-4870-A558-1303FAD888D9/Employee_Set_Goals_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/E271DA6A-2474-458C-AEC4-CF5414585969/Employee_Request_A_Leave_Of_Absence.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/5A3D52E2-A226-4088-B935-A94B61816FA3/Generating_Reports.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/C93550DA-8AEF-43D2-BB40-EC066931E390/Employee_Request_A_Leave_Of_Absence.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/3E0AF604-9E84-4FB4-B4C9-05681C82E518/Employee_Maintain_Plan_Items_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F98A5F1B-B618-4084-BA25-414A53003485/Employee_New_Hire_Add_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/B62FFAD9-579F-466F-8868-A85D876F584A/Employee_Submit_Plan_Manager.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/376B3F3D-5C93-4280-ACEE-E136A758717A/Employee_Edit_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AF035274-EE20-4578-A130-F8705863C56F/Employee_Review_Plan_Manager.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/6E0FBC48-7E35-4BBE-96EC-634CAC68D97C/Employee_Draft_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/040EA82F-37C8-4EB4-BA2B-A66AE53C9CC6/Leader_Submit_Plan_Manager.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/00330CB8-DF46-4280-ADEF-0BBACD20EE4F/Leader_Review_Plan_Manager.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/E5F72478-D593-4CCA-9C2E-CDFDECCA91FC/Leader_New_Hire_Add_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/641F1045-DA03-418A-AD83-3079B0569D44/Leader_Maintain_Plan_Items_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/CDDA9D9D-F38B-49E2-9E01-E1BAD5C54665/Leader_Edit_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/2E2D88BE-FC81-41BC-83EA-F17EE30F15CA/Leader_Draft_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/539F62EB-A80E-47D6-A5C7-AC87AAF1BE1E/Employee_Draft_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/64206455-F863-40D9-BBF7-9D515600293E/Employee_Draft_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/9D146509-ECF2-44B7-B974-82B8C643F368/Employee_Draft_Plan_Employee.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/DCD36378-230C-4E65-8EFC-21584E6BA0C6/menus_employee.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/96900C85-95E6-46EF-8BFE-1AA71B7420D7/Employee_Draft_Plan.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/5220EAE6-660C-4C35-9572-0E4A217D908C/video-page-template copy 2.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/A2692564-295C-4B78-901D-4356E787D1F7/menus_employee.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/79B51EE2-0E86-4A15-AF1A-8552618B9762/menus_leader.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/3C308FA3-8400-448F-98DF-8D33C253B99D/header.inc.php",
+		"/Users/petermah/Dropbox (Xpan Interactive Ltd)/Xpan Internal/Projects/CP Rail/Courses Phase 2/2284 V1E 0.25A/Assets/External documents/Certificate.html",
+		"/Users/petermah/Documents/repos/TELearn PHP build/common/footer.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/88E6D4CF-35A3-4CB0-BD23-7C3014A343A3/careers.php",
+		"/Users/petermah/Documents/repos/Flip Demo/demo/index.html",
+		"/Users/petermah/Dropbox (Xpan Interactive Ltd)/Chicago Transit Authority Public/Assets - Global/Flash/Interactivities/quiz_1_12.xml",
+		"/Users/petermah/Dropbox (Xpan Interactive Ltd)/Xpan Internal/Projects/Chicago Transit Authority/Assets - Global/Flash/Interactivities/quiz copy.xml",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/933F3424-68FC-480E-9610-647007AB7325/find_table.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AC990D14-A5CB-40D4-AE81-E9A0C3D18ADF/index.html",
+		"/Users/petermah/Documents/repos/PageSlider/index.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/3B441CA7-6455-4B6F-90F0-69F15805F9D4/header.php",
+		"/Users/petermah/Documents/repos/Nexen/Prototype1/video-page-template.html",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/33F96768-3472-4F89-9744-AC47D7ECFCE3/bigtaste.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/36942E8C-90C8-4127-BFA1-5796B2C05116/styles.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/5965C4F7-1965-4B13-8364-FCB63805742E/the-big-taste.inc.php",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/222357C3-7190-478F-BF81-D398D575D553/flipcards.js",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F17EC5C0-00CB-40F8-BAF6-80748268DBE2/the-big-taste.inc.php",
+		"/Users/petermah/Documents/repos/Big Taste build/images/booknow_sprites.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/08A22F10-E68E-4AEF-970E-B4C19E42C51C/bigtaste.css",
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/5963D277-7D84-4CA6-8184-DD43590DF54B/flipcards.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header__logo",
+			"header",
+			"555x300 image",
+			"./bootstrap-prestructure_files/555x300",
+			"title_container",
+			"center",
+			"xs_small",
+			"h3",
+			"h2",
+			"500_wide",
+			"p",
+			"div",
+			"h1",
+			"faq",
+			"responsive",
+			"image",
+			"section_description",
+			"images",
+			"Module",
+			"banner_quote",
+			"jumbo_cta",
+			"pdfContentList",
+			"banner_list",
+			"email_checklist",
+			"ul",
+			"lifeDeath_nav",
+			"retirement_nav",
+			"taxes_nav",
+			"savingsDebt_nav",
+			"financialPlanning_nav",
+			"investing_nav",
+			"side_nav_investing",
+			"yellow_background",
+			"tool",
+			"xpan by the numbers",
+			"form",
+			"Form Elements",
+			"forms",
+			"images",
+			"pdfContentList2",
+			"banner_list",
+			"form",
+			"h3",
+			"manager",
+			"b",
+			"h1",
+			"h4",
+			"h1",
+			"manager",
+			"small",
+			"pdfContentList",
+			"email_checklist",
+			"checklist_form",
+			"Form",
+			"p",
+			"manager",
+			"jumbo_cta",
+			"green",
+			"quarterly_signup",
+			"submitBtn",
+			"form",
+			"h3",
+			"h4",
+			"check_message",
+			"checklist",
+			"a.",
+			"#",
+			"Learn",
+			"footer_container",
+			"p",
+			"Employee_Draft_Plan",
+			"test",
+			"filterBtn",
+			"partSearch",
+			"cuisine",
+			"80",
+			"100px",
+			"partSearch",
+			"Friday, March 6, 2015 | Price $45",
+			"&",
+			"Market Sunday Brunch",
+			"Saturday, March 7, 2015 | Price $95",
+			"Downtownfood Chef Collaboration",
+			"Saturday, March 7, 2015 | Price $45",
+			"National Bowl Doubles Tournament",
+			"Friday, March 6, 2015 | Price $45",
+			"&",
+			"Home Tasting Room Lunch",
+			"Friday, March 6, 2015 | Price $45",
+			"Barcelona Tavern Spanish Lunch",
+			"Friday, March 6, 2015 | Price $45",
+			"Avec Bistro Winemaker&#8217;s Dinner",
+			"Market Sunday Brunch",
+			"| Price $95",
+			"Downtownfood Chef Collaboration",
+			"National Bowl Doubles Tournament",
+			"7",
+			"Saturday",
+			"National Bowl Doubles Tournament",
+			"Home Tasting Room Lunch",
+			"| Price $45",
+			"Friday",
+			"&",
+			"Home Tasting Room Lunch",
+			"Friday",
+			".back",
+			"back",
+			"sold",
+			"4",
+			"3",
+			"2",
+			"1",
+			"6",
+			"5",
+			"4",
+			"3",
+			"foodie_event",
+			"16 Signature Foodie Events",
+			"foodie_title_container",
+			"remove",
+			"</a>",
+			"<a href=\"#\">",
+			"<a href=\"#\" class=\"remove\">Remove <a href=\"#\"><span class=\"glyphicon glyphicon-remove\"></span></a>",
+			"checkGroup",
+			"settings",
+			"messages",
+			"home",
+			"anchors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Bootstrap_SCSS.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/horse1asia/Documents/Website Dev Work/WebPrototyping/WebPrototyping.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
